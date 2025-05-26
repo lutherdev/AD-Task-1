@@ -1,15 +1,15 @@
 {
-    "name": "ramir/php-pages",
+    "name": "sambeli/ad-task-1",
     "type": "project",
     "autoload": {
         "psr-4": {
-            "Ramir\\PhpPages\\": "src/"
+            "Luther\\AdTask1\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "zyx-0314-FJorn",
-            "email": "ramirezian037@gmail.com"
+            "name": "lutherdev",
+            "email": "devturd@gmail.com"
         }
     ],
     "require": {}
